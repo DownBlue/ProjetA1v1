@@ -1,0 +1,43 @@
+
+
+img{width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    object-fit: cover;
+}
+
+
+.container {
+    background-color: purple;
+    height: 350px;
+    margin-top: 60px;
+    padding: 30px;
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+}
+
+.boite1 {
+    width: 20%;
+    height: 200px;
+    border: solid 2px pink;
+}
+
+.boite2 {
+    width: 40%;
+    height: 150px;
+    border: solid 2px pink;
+}
+
+.boite3 {
+    width: 10%;
+    height: 150px;
+    border: solid 2px pink;
+}
+
+.container2 {
+    display: flex;
+}
+
