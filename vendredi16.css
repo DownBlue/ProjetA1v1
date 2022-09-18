@@ -1,17 +1,16 @@
 
 
-img{width: 50%;
+img{width: 60%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10%;
+    margin-top: auto;
     object-fit: cover;
 }
 
-
 .container {
-    background-color: purple;
-    height: 350px;
+    background-color: rgb(64, 141, 192);
+    height: 200px;
     margin-top: 60px;
     padding: 30px;
     display: flex;
@@ -20,22 +19,23 @@ img{width: 50%;
 }
 
 .boite1 {
-    width: 20%;
-    height: 200px;
-    border: solid 2px pink;
+    width: 33%;
+    height: 150px;
+    border: solid 2px rgb(196, 120, 231);
 }
 
 .boite2 {
     width: 40%;
     height: 150px;
-    border: solid 2px pink;
+    border: solid 2px rgb(196, 120, 231);
 }
 
 .boite3 {
-    width: 10%;
+    width: 33%;
     height: 150px;
-    border: solid 2px pink;
+    border: solid 2px rgb(196, 120, 231);
 }
+
 
 .container2 {
     display: flex;
